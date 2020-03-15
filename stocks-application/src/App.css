@@ -1,0 +1,9 @@
+.entries-values {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.entries-values input {
+    width: 10%;
+}
